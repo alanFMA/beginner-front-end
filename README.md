@@ -5,4 +5,6 @@ Repositório criado para inicio dos meus estudos: front-end developer
 
 - [x] Git/GitHub
 - [ ] Html e Css
+- [ ] Bootstrap
 - [ ] Javascript
+- [ ] MySql
