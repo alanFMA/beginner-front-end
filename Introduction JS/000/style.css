@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    background-color: #ccc;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.maintitle, .subtitle, .posttitle {
+    color: blue;
+}
+
+.posttitle {
+    font-size: 16px;
+    font-style: italic;
+}
