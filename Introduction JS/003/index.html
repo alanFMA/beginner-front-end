@@ -21,9 +21,20 @@
     <p>Ja me livrei da maldição</p>
 
     <script>
-        window.alert('Minha primeira mensagem');
-        window.confirm('Está gostando de JS');
-        window.prompt('Qual o seu nome?')
+        var n1 = Number(window.prompt('Digite um número: '));
+        var n2 = Number(window.prompt('Digite outro número: '));
+        var s = n1 + n2
+        window.alert(`A soma dos números ${n1} e ${n2} é igual a: ${s}`); //concatenação
+        // (number + number) para adição
+        // (string + number) para concatenação
+
+        // Convertendo para string: 
+            // String()
+            // ntoString()
+
+        // Convertendo para números:
+            //Number.parseInt ou .parseFloat()
+            //Number()
     </script>
 </body>
 </html>
